@@ -1,0 +1,6 @@
+C:\Users\Esmond Soo\source\repos\Dummy Web API\Dummy Console\bin\Debug\Dummy Console.exe.config
+C:\Users\Esmond Soo\source\repos\Dummy Web API\Dummy Console\bin\Debug\Dummy Console.exe
+C:\Users\Esmond Soo\source\repos\Dummy Web API\Dummy Console\bin\Debug\Dummy Console.pdb
+C:\Users\Esmond Soo\source\repos\Dummy Web API\Dummy Console\obj\Debug\Dummy Console.csproj.CoreCompileInputs.cache
+C:\Users\Esmond Soo\source\repos\Dummy Web API\Dummy Console\obj\Debug\Dummy Console.exe
+C:\Users\Esmond Soo\source\repos\Dummy Web API\Dummy Console\obj\Debug\Dummy Console.pdb
