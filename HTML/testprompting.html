@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Today's Date</title>
+    <script>
+        let d = new Date();
+        alert("Today's date is " + d);
+
+		var formattedBody = "<b>FirstLine</b> \n Second Line \n Third Line";
+		var mailToLink = "mailto:x@y.com?body=+encodeURIComponent("+formattedBody+")";
+		window.location.href = mailToLink;
+
+		function sendMail()
+		{
+		   var mailBody=document.getElementById('mailBody').innerHTML;
+		   window.location="mailto:yourmail@domain.com?subject=hii&body=+mailBody";
+		}
+
+
+    </script>
+</head>
+
+<body>
+<div id="mailBody"><table border=1> <tr><td>blabla</td></tr> </table></div>
+<input type="button" onclick="sendMail();">
+</body>
+
+
+
+</html>

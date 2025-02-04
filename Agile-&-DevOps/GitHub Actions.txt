@@ -1,0 +1,6 @@
+GitHub Actions - Cheatsheet
+
+$GITHUB_WORKSPACE 
+	- root of Repo
+	- built-in Variable 
+	- another Built-in variable - ${{ github.workspace }}
